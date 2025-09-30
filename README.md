@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Ritesh Kanabar, and I'm a (AI Researcher), from Hyderabad</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Started getting errors since 2024.<br>📚 I'm currently learning Btech.<br>🎯 Goals: To get role in Product-Based company.<br>🎲 Fun fact: I am LAZY.</p>
 
 ###
 
