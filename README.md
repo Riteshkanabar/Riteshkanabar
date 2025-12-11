@@ -37,10 +37,9 @@
 <h2 align="left">Connect me with⛓️‍💥</h2>
 
 <div align="left">
-  <a href="www.linkedin.com/in/ritesh-kanabar-60534b242" target="_blank">
+  <a href="www.linkedin.com/in/riteshkanabar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href="http://www.youtube.com/@ritesh9276" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
