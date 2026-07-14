@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ritesh Kanabar, and I'm a (AI Researcher), from Hyderabad</p>
+<p align="left">My name is Ritesh Kanabar, from Hyderabad</p>
 
 ###
 
