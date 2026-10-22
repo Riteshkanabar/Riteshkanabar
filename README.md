@@ -55,3 +55,7 @@
 </div>
 
 ###
+
+## 📈 Contribution Graph
+
+[![Ritesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riteshkanabar&theme=react-dark)](https://github.com/Riteshkanabar)
